@@ -3,6 +3,7 @@
     padding: 0;
     font-family: 'Urbanist', 'sans-serif';
     text-transform: capitalize;
+
 }
 body{
     background-color: #ECEBF4;
@@ -104,7 +105,7 @@ body{
         height:824px;;
     }
     .secound{
-        width: 170%;
+        width: 100%;
         height: fit-content;
         top: -95px;
     }
