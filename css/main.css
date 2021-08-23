@@ -150,7 +150,7 @@ body{
 }
 /* Large Screens */
 
-@media (min-width: 991px) {
+@media (max-width: 991px) {
     .parent{
         padding-left: 95px;
     }
