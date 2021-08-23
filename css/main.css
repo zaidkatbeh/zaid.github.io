@@ -97,12 +97,14 @@ body{
         padding-left: 0;
         flex-direction: column;
         font-size: 20px;
+       
     }
     .first{
         top: -95px;
         border-top-width: 40px;
         border-left: 60px solid #3729B1;
         height:824px;;
+        border-bottom:solid #3729B1 134px;
     }
     .secound{
         width: 100%;
@@ -130,7 +132,11 @@ body{
     span.zaidz{
         font-size: 25px;
     }
-    .comment_one{}
+    .comment_one{
+        position: absolute;
+        top: 1068px;
+        z-index: 100;
+    }
 }
 /* Small Screens */
 
